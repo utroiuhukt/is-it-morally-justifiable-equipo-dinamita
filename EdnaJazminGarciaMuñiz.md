@@ -1,4 +1,4 @@
-#Activity: the Darknet
+# Activity: the Darknet
 
 ¿Qué es la Darknet? Es una parte de internet no indexada por motores de búsqueda convencionales, accesible solo con software especializado. Es un espacio donde ocurren actividades tanto legales como ilegales, priorizando el anonimato y la privacidad.
 
